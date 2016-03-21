@@ -1,2 +1,3 @@
 # hello-world
-bei'g'in
+Hi human ！
+  Hubot here ,I like  Nod.js  and coffeeScript 
